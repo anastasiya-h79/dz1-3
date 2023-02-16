@@ -1,2 +1,2 @@
-# dz1-3
-test github
+Парсим сайт, получаем курсы валют.
+Тест requests, Flask
